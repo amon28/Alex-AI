@@ -1,6 +1,6 @@
 # Alex-AI
-Alex AI is a Minecraft Bedrock AI Chatbot Addon.
-
+Alex AI is a Minecraft Bedrock AI Chatbot Addon.\
+You can talk to the AI in game, you can even ask it to run commands.
 # Requirements
 1. Latest Preview Version of Minecraft Bedrock PC
 2. Node.js https://nodejs.org/en
